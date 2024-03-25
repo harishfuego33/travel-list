@@ -22,6 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Ignore package lock and node package files
 package-lock.json
 package.json
+
+# Ignore README files
 README.md
